@@ -52,5 +52,8 @@ Un RSS **(Really Simple Syndication)** es un formato de datos que se utiliza par
 
 I en este proyecto el rss que utilizaremos sera el de la Vanguardia par incluir sus titulares y resúmenes de las últimas noticias publicadas en diferentes secciones, como política, deportes, cultura, etc.
 
+[RSS](https://www.lavanguardia.com/rss)
+
+
 
 
