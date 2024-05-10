@@ -7,8 +7,7 @@
 * Flask
 * Feedparser
 * Iteraciones
-  -Iteracion 1
-
+  - Iteracion 1
 
 
 ## Pasos antes de comenzar el projeto
