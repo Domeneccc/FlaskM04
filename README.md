@@ -4,6 +4,8 @@
 
 ## Index
 * Pasos antes de comenzar el projeto
+    - Creación del Ambiente Virtual con venv
+    - Instalacion del flask y feedparser
 * Flask
 * Feedparser
 * RSS
@@ -11,8 +13,8 @@
   - Iteracion 1
 
 
-## Pasos antes de comenzar el projeto
-### Creación del Ambiente Virtual con venv
+# Pasos antes de comenzar el projeto
+## Creación del Ambiente Virtual con venv
 ```
 # Instalacion de ambiente virtual
 python -m venv .venv
@@ -23,7 +25,7 @@ desactivate
 ```
 [Venv](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager)
 
-### Instalacion del flask y feedparser
+## Instalacion del flask y feedparser
 ```
 # Instalacion de flask
 pip install flask
@@ -50,9 +52,25 @@ Feedparser es una biblioteca de Python que facilita el análisis de feeds **RSS*
 
 Un RSS **(Really Simple Syndication)** es un formato de datos que se utiliza para distribuir contenido actualizado de manera periódica. Es comúnmente utilizado por sitios web que publican contenido regularmente, como noticias, blogs, podcasts, etc. El propósito principal de un feed RSS es permitir a los usuarios suscribirse a contenido actualizado de su interés y recibir notificaciones automáticas cuando se publique nuevo contenido.
 
-I en este proyecto el rss que utilizaremos sera el de la Vanguardia par incluir sus titulares y resúmenes de las últimas noticias publicadas en diferentes secciones, como política, deportes, cultura, etc.
+I en este proyecto el **RSS** que utilizaremos sera el de la Vanguardia par incluir sus titulares y resúmenes de las últimas noticias publicadas en diferentes secciones, como política, deportes, cultura, etc.
 
 [RSS](https://www.lavanguardia.com/rss)
+
+# Explicaion de  RSS remoto y local
+
+## Local
+
+
+
+## Remoto
+
+
+
+# Iteraciones
+
+## Iteracion 1
+
+Para comenzar la iterancon 1 lo que he hecho ha sido descargar el codigo esqueleto del proyecto despues de hacer toda la instalacion esplicada anteriormente explicada. Primero lo que hice fue crear los dos nuevas sesiones simples y yo he añadidos sucesos y tecnologia 
 
 
 
