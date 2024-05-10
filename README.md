@@ -27,4 +27,4 @@ pip install feedparser
 
 # Flask
 
-Flask es un framework web ligero y flexible para Python que facilita la construcción de aplicaciones web. Se basa en el principio de **WSGI**  y Jinja2 para el renderizado de plantillas HTML. Flask proporciona herramientas para el enrutamiento de URLs, gestión de sesiones, manejo de peticiones HTTP y más, permitiendo a los desarrolladores crear aplicaciones web de manera rápida y sencilla.
+Flask es un framework web ligero y flexible para Python que facilita la construcción de aplicaciones web. Se basa en el principio de **WSGI**  y Jinja2 para el renderizado de plantillas **HTML**. Flask proporciona herramientas para el enrutamiento de **URLs**, gestión de sesiones, manejo de peticiones **HTTP** y más, permitiendo a los desarrolladores crear aplicaciones web de manera rápida y sencilla.
