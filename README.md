@@ -78,6 +78,10 @@ Para comenzar la iterancon 1 lo que he hecho ha sido descargar el codigo esquele
 
 Despues he añadido el logo del la vanguardia en el documento la vanguardia.html
 
+Finalmente lo que he hecho ha sido meter la siguiente estructura 
 
-
-
+Descripcion:
+Fecha de publicacion:
+Ultima actualizacion:
+Autor:
+Categoria:
