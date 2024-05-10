@@ -1,30 +1,41 @@
 # Projecte de RSS M04
 ## Proyecto con Flask, Jinja, RSS y Feedparser
 ## Index
-* Pasos abans de començar el projete
+* Pasos antes de comenzar el projeto
 * Flask
+* Feedparser
+* Iteraciones
+    *Iteracion 1
 
 
 
-## Pasos abans de començar el projete
+## Pasos antes de comenzar el projeto
 ### Creación del Ambiente Virtual con venv
 ```
-# Instal·lacio de ambient virtual
+# Instalacion de ambiente virtual
 python -m venv .venv
-# Activacio del ambient virtual
+# Activacio del ambiente virtual
 .venv\Scripts\activate
-# Desacitivar el ambient
+# Desacitivar el ambiente
 desactivate
 ```
 
-### Instal·lacio del flask i feedparser
+### Instalacion del flask y feedparser
 ```
-# Instal·lacio de flask
+# Instalacion de flask
 pip install flask
-# Instal·lacio de feedparser
+# Instalacion de feedparser
 pip install feedparser
 ```
 
-# Flask
+# Flask y Jinja
 
 Flask es un framework web ligero y flexible para Python que facilita la construcción de aplicaciones web. Se basa en el principio de **WSGI**  y Jinja2 para el renderizado de plantillas **HTML**. Flask proporciona herramientas para el enrutamiento de **URLs**, gestión de sesiones, manejo de peticiones **HTTP** y más, permitiendo a los desarrolladores crear aplicaciones web de manera rápida y sencilla.
+
+# Feedparser
+
+Feedparser es una biblioteca de Python que facilita el análisis de feeds **RSS**. Permite a los desarrolladores extraer y procesar contenido estructurado de fuentes de noticias, blogs y otros sitios web que proporcionan feeds RSS. Con Feedparser, podemos acceder a información como títulos, descripciones, enlaces y fechas de publicación de las entradas en un feed, lo que resulta útil para integrar contenido dinámico a *aplicaciones web*.
+
+
+
+
