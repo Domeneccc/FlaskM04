@@ -6,6 +6,7 @@
 * Pasos antes de comenzar el projeto
 * Flask
 * Feedparser
+* RSS
 * Iteraciones
   - Iteracion 1
 
@@ -43,6 +44,13 @@ Feedparser es una biblioteca de Python que facilita el análisis de feeds **RSS*
 
 [Feedparser](https://feedparser.readthedocs.io/en/latest/)
 
+
+
+# RSS
+
+Un RSS **(Really Simple Syndication)** es un formato de datos que se utiliza para distribuir contenido actualizado de manera periódica. Es comúnmente utilizado por sitios web que publican contenido regularmente, como noticias, blogs, podcasts, etc. El propósito principal de un feed RSS es permitir a los usuarios suscribirse a contenido actualizado de su interés y recibir notificaciones automáticas cuando se publique nuevo contenido.
+
+I en este proyecto el rss que utilizaremos sera el de la Vanguardia par incluir sus titulares y resúmenes de las últimas noticias publicadas en diferentes secciones, como política, deportes, cultura, etc.
 
 
 
