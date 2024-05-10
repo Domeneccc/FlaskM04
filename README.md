@@ -16,12 +16,23 @@
 # Pasos antes de comenzar el projeto
 ## Creación del Ambiente Virtual con venv
 ```
+# windows 
+
 # Instalacion de ambiente virtual
 python -m venv .venv
 # Activacio del ambiente virtual
 .venv\Scripts\activate
+
+# linux
+# Instalacion de ambiente virtual
+python3 -m venv .venv
+# Activacio del ambiente virtual
+source .venv/bin/activate
+
 # Desacitivar el ambiente
 desactivate
+
+
 ```
 [Venv](https://marketplace.visualstudio.com/items?itemName=donjayamanne.python-environment-manager)
 
@@ -31,6 +42,13 @@ desactivate
 pip install flask
 # Instalacion de feedparser
 pip install feedparser
+# iniciar Flask
+flask run --debug
+
+# ip para entrear
+http://127.0.0.1:5000/
+
+
 ```
 
 # Flask y Jinja
