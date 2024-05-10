@@ -9,3 +9,7 @@ mi_entorno_virtual\Scripts\activate
 
 source mi_entorno_virtual/bin/activate 
 '''
+```
+# Esto es un bloque de código en Markdown
+print("Hola, mundo")
+```
