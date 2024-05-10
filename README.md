@@ -74,7 +74,9 @@ https://www.lavanguardia.com/rss/{seccio}.xml
 
 ## Iteracion 1
 
-Para comenzar la iterancon 1 lo que he hecho ha sido descargar el codigo esqueleto del proyecto despues de hacer toda la instalacion esplicada anteriormente explicada. Primero lo que hice fue crear los dos nuevas sesiones simples y yo he añadidos sucesos y tecnologia 
+Para comenzar la iterancon 1 lo que he hecho ha sido descargar el codigo esqueleto del proyecto despues de hacer toda la instalacion esplicada anteriormente explicada. Primero lo que hice fue crear los dos nuevas sesiones simples y yo he añadidos sucesos y tecnologia.
+
+Despues he añadido el logo del la vanguardia en el documento la vanguardia.html
 
 
 
